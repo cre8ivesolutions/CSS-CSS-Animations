@@ -1,14 +1,13 @@
 /****************************************
 * Transform
 ****************************************/
-.transform-demo > div {
+.transform-demo div {
   height: 40px;
   background: salmon;
   width: 20%;
   margin: auto;
   display: inline-block;
-  transform: translate(250px);
-  transition: 5s;
+  transform: translate(150px);
   opacity: 0.5;
 }
 
